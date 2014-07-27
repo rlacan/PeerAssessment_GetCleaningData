@@ -1,9 +1,10 @@
 run_analysis.R
 ==============================
-## The run_analysis.R it's a script that made a summarize of the data from Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
+The run_analysis.R it's a script that made a summarize of the data from Human Activity Recognition database built from the recordings of 30 subjects performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors.
 
-- For make the script run only need:
-## The data that you can download here:
+## - For make the script run only need:
+
+The data that you can download here:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
@@ -17,6 +18,6 @@ The script doesn't use a parameters, only execute the script when the work finis
 
 For understanding how the script works you can read
 
-    THE CODE BOOK
+###THE CODE BOOK
 
 Ronald Lacan
