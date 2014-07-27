@@ -4,7 +4,6 @@
 ##3.Uses descriptive activity names to name the activities in the data set
 ##4.Appropriately labels the data set with descriptive variable names.
 ##5.Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-## Thanks! and nice to meet you!
 #############################################################################
 run_analysis <- function() { ## initial function
  ## read all the files that is containt in the
